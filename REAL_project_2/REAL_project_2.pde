@@ -109,7 +109,7 @@ class rain{
     rotate(radians(135));
     noStroke();
     fill(176,225,241);
-    rect(0,0,3,5);
+    rect(0,0,1,10);
     pop();
   }
     
